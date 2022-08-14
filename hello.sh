@@ -2,7 +2,9 @@
 
 count=9
 
-if [ $count -ne 10 ]
+# This is branch
+
+if [ $count -gt 10 ]
 
 then 
 
